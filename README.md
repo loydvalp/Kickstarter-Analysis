@@ -6,7 +6,7 @@ An Analysis performed on Kickstarter data to help ensure the crowdfunding campai
 
 ### Analysis
 
-With the data that was given, it shows successful outcomes in several countries. Theater had the most successful outcomes out of the other industries. Since your main focus is in **United States** plays and **Great Britain** musicals, the focus on this report will be of those two countries.
+With the data that was given, it shows successful outcomes in several countries. Theater had the most successful outcomes out of the other industries. Since your main focus is in **United States** and **Great Britain**, the focus on this report will be of those two countries.
 
 ![](Images/ParentCategoryOutcomes.png)
 
