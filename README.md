@@ -37,7 +37,9 @@ The chart above is the distribution of Great Britain's musical campaign. The ave
 
 Most successful plays had a goal less than 5000. On the other hand, most failures were greater than 45,000. There wasn't any canceled plays.
 
-![]()Most successful Kickstarter started in May and June while most failure started in the last quarter.
+![](Images/Outcomes%20Based%20on%20Goal.png)
+
+Most successful Kickstarter started in May and June while most failure started in the last quarter.
 
 ![](Images/Outcome%20Based%20on%20Launch%20Date.png)
 
