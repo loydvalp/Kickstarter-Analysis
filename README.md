@@ -39,10 +39,10 @@ Most successful plays had a goal less than 5000. On the other hand, most failure
 
 ![](Images/Outcomes%20Based%20on%20Goal.png)
 
-Most successful Kickstarter started in May and June while most failure started in the last quarter.
+Most successful Kickstarter started in May and June while most failure started in December.
 
 ![](Images/Outcome%20Based%20on%20Launch%20Date.png)
 
 ## Conclusion
 
-In conclusion, recommend reducing the campaign's budget. Start a campaign in May or June. Although having a higher goal is a contributing factor for the failure, data proves that there are other unknown factors that contribute to the failures.
+In conclusion, the timing of the play and the budget are very important criteria.  Recommend reducing the campaign's budget. Start a campaign in May. Although having a higher goal is a contributing factor for the failure, data proves that there may be other unknown factors that contribute to the failures.
